@@ -14,11 +14,11 @@ export const Header = () => {
                         <h3 className="title-text">あなたの肩書き</h3>
                         <ul className="social-icons">
                             <li className="icon-link">
-                                <a href="https://twitter.com/"></a>
+                                <a href="/"></a>
                                 <FaTwitter color="white" size="2rem" />
                             </li>
                             <li className="icon-link">
-                                <a href="https://github.com/"></a>
+                                <a href="/"></a>
                                 <FaGithub color="white" size="2rem" />
                             </li>
                         </ul>
