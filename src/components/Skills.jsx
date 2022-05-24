@@ -10,6 +10,7 @@ export const Skills = () => {
             <div className="container">
                 <div className="heading">
                     <h2>Skills</h2>
+                    <p className="description">※ GitHub参照</p>
                 </div>
                 <div className="skills-container">
                     {

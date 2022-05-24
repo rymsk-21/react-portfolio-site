@@ -10,11 +10,11 @@ export const Header = () => {
                 <div className="display-table">
                     <div className="display-table-contents">
                         <div className="profile-thumb" style={{backgroundImage: `url(${ProfileImage})`}}></div>
-                        <h1 className="title-text">あなたの名前</h1>
-                        <h3 className="title-text">あなたの肩書き</h3>
+                        <h1 className="title-text">SEKI RYOMA</h1>
+                        <h3 className="title-text">QAE</h3>
                         <ul className="social-icons">
                             <li className="icon-link">
-                                <a href="/"></a>
+                                <a href="https://twitter.com/IvryQa"></a>
                                 <FaTwitter color="white" size="2rem" />
                             </li>
                             <li className="icon-link">
